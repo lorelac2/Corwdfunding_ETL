@@ -4,17 +4,17 @@
 
 ### *Collaborators: Lorela Cabral, Luis Hernandez, Mohammad Arab, Drew Barnhart, and Anna Remler*
 
-# Background
+## Background
 Within this collaborative effort we transformed data utilizing an ETL Pipeline process using Python and Pandas methods. Initially we were provided data in excel workbooks (located witin the resources folder: Contacts & Crowdfunding). Our goal was to process and read this data, eventually providing it within a CSV file. 
 
-# Objectives
+## Objectives
 The objectives for this process were divided into several subsections: 
 - Create the Category and Subcategory DataFrames
 - Create the Campaign DataFrame
 - Create the Contacts DataFrame
 - Create the Crowdfunding Database
 
-# Steps
+## Steps
 
 ### Step 1. Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame 
 
