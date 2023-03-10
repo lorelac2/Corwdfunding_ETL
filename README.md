@@ -11,14 +11,14 @@
 > folder: Contacts & Crowdfunding). Our goal was to process and read this data, eventually providing it within CSV files. 
 
 ## Objectives
-```
-The objectives for this process were divided into several subsections: 
 
-- Create the Category and Subcategory DataFrames
-- Create the Campaign DataFrame
-- Create the Contacts DataFrame
-- Create the Crowdfunding Database
-```
+> The objectives for this process were divided into several subsections: 
+
+> - Create the Category and Subcategory DataFrames
+> - Create the Campaign DataFrame
+> - Create the Contacts DataFrame
+> - Create the Crowdfunding Database
+
 
 ## Procedure
 
