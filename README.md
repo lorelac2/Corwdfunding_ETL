@@ -18,7 +18,7 @@ The objectives for this process were divided into several subsections:
 - Create the Crowdfunding Database
 ```
 
-## Steps
+## Procedure
 
 ### Step 1. Extract and transform the crowdfunding.xlsx Excel data
 
@@ -42,6 +42,7 @@ The objectives for this process were divided into several subsections:
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
 
+### Step 5: Extracted the Contacts.xlsx Data
 
 
 
