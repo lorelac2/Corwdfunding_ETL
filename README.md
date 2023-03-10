@@ -2,9 +2,9 @@
 
 ## Building an ETL pipeline using Python, Pandas, and Python dictionary methods to Transform Data 
 
-> #### *Collaborators: Lorela Cabral, Luis Hernandez, Mohammad Arab, Drew Barnhart, and Anna Remler*
-
-
+```
+*Collaborators: Lorela Cabral, Luis Hernandez, Mohammad Arab, Drew Barnhart, and Anna Remler*
+```
 ## Background
 
 > Within this collaborative effort we transformed data utilizing an ETL Pipeline process using Python
