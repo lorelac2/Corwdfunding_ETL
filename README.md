@@ -43,6 +43,7 @@ The objectives for this process were divided into several subsections:
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
 
 ### Step 5: Extracted the Contacts.xlsx Data
+### Step 6: Created the Contacts DataFrame with specified columns (*depicted below*)
 
 
 
