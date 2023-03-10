@@ -9,10 +9,12 @@ Within this collaborative effort we transformed data utilizing an ETL Pipeline p
 
 ## Objectives
 The objectives for this process were divided into several subsections: 
+```
 - Create the Category and Subcategory DataFrames
 - Create the Campaign DataFrame
 - Create the Contacts DataFrame
 - Create the Crowdfunding Database
+```
 
 ## Steps
 
