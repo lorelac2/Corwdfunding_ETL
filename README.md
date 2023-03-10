@@ -21,8 +21,15 @@ The objectives for this process were divided into several subsections:
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/116226080/224200936-4bf5a943-8756-4049-9d39-1c090752d800.png">
 
 ### Step 2: Create the Category and Subcategory DataFrames
-  - After creation of these data frames we exportedcthem as CSV Files (*category.csv & subcategory.csv*)
+  - After creation of these data frames we exported them as CSV Files (*category.csv & subcategory.csv*)
 
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/116226080/224203139-7925e344-f4c1-4fdd-a289-18f925ec85c4.png">
+
+
+### Step 3: Creted a campaign DF with specified columns
+  - These included :cf_id, contact_id, company_name, blurb, goal, pleadged, and 8 other columns (*depicted below*)
+
+<img width="809" alt="image" src="https://user-images.githubusercontent.com/116226080/224203218-8e4ddb1b-0016-4ad3-a70f-4d7f2252b8b2.png">
 
 
 ### Software Used:
