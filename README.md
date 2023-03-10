@@ -43,7 +43,11 @@ The objectives for this process were divided into several subsections:
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
 
 ### Step 5: Extracted the Contacts.xlsx Data
-### Step 6: Created the Contacts DataFrame with specified columns (*depicted below*)
+### Step 6: Created the Contacts DataFrame with specified columns 
+                - For this we utilized pandas to create the DF (*depicted below*)
+                
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/116226080/224205913-dc7f5102-9560-4398-ad92-b0ea9d80720d.png">
+
 
 
 
