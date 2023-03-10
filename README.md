@@ -26,25 +26,25 @@ The objectives for this process were divided into several subsections:
 
 
 ### Software Used:
-'''
-- Python
-- SQL
-- Pandas
-- Numpy
 
-'''
+> - Python
+> - SQL
+> - Pandas
+> - Numpy
+
+
 ### Functions used: 
-'''
-- Print
-- To_csv 
-- Iterrows
-- Copy
-- Rename
-- Info
-- Merge
-- Drop
 
-'''
+> - Print
+> - To_csv 
+> - Iterrows
+> - Copy
+> - Rename
+> - Info
+> - Merge
+> - Drop
+
+
 # Schema
 
 ### Exported from QuickDBD: https://www.quickdatabasediagrams.com/
