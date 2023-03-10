@@ -6,7 +6,9 @@
 
 ## Background
 
-Within this collaborative effort we transformed data utilizing an ETL Pipeline process using Python and Pandas methods. Initially we were provided data in excel workbooks (located witin the resources folder: Contacts & Crowdfunding). Our goal was to process and read this data, eventually providing it within CSV files. 
+> Within this collaborative effort we transformed data utilizing an ETL Pipeline process using Python
+> and Pandas methods. Initially we were provided data in excel workbooks (located witin the resources 
+> folder: Contacts & Crowdfunding). Our goal was to process and read this data, eventually providing it within CSV files. 
 
 ## Objectives
 ```
