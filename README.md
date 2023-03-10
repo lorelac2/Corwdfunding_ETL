@@ -4,11 +4,13 @@
 
 > #### *Collaborators: Lorela Cabral, Luis Hernandez, Mohammad Arab, Drew Barnhart, and Anna Remler*
 
+
 ## Background
 
 > Within this collaborative effort we transformed data utilizing an ETL Pipeline process using Python
 > and Pandas methods. Initially we were provided data in excel workbooks (located witin the resources 
 > folder: Contacts & Crowdfunding). Our goal was to process and read this data, eventually providing it within CSV files. 
+
 
 ## Objectives
 
@@ -18,6 +20,7 @@
 > - Create the Campaign DataFrame
 > - Create the Contacts DataFrame
 > - Create the Crowdfunding Database
+
 
 
 ## Procedure
@@ -57,6 +60,7 @@
 >  - Reordered the columns
   
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/116226080/224206568-5e689bd4-76ef-4de8-b12d-fa154759cacf.png">
+
 
 # MongoDB Databases
 
