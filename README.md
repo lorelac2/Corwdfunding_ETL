@@ -42,6 +42,8 @@ The objectives for this process were divided into several subsections:
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
 
+<img width="848" alt="image" src="https://user-images.githubusercontent.com/116226080/224208083-164cf6b4-9e3a-47d0-9310-d8dac1ee4042.png">
+
 ### Step 5: Extracted the Contacts.xlsx Data
 ### Step 6: Created the Contacts DataFrame with specified columns 
   - For this we utilized pandas to create the DF (*depicted below*)
@@ -57,7 +59,7 @@ The objectives for this process were divided into several subsections:
 
 # MongoDB Databases
 
-> initially we Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD. We used the information from the ERD to create a table schema for each CSV file.
+> initially we inspected the four CSV files, and then sketch an ERD of the tables by using QuickDBD. We used the information from the ERD to create a table schema for each CSV file.
 
 #### Schema Diagram
 *Exported from QuickDBD: https://www.quickdatabasediagrams.com/*
@@ -66,8 +68,10 @@ The objectives for this process were divided into several subsections:
 
 <img width="647" alt="Screenshot 2023-03-08 190146" src="https://user-images.githubusercontent.com/116226080/223905771-dddcd92c-99a4-44ed-87b6-0b266febcba6.png">
 
-
 <img width="636" alt="Screenshot 2023-03-08 190205" src="https://user-images.githubusercontent.com/116226080/223905729-4b2d49b5-9d83-4235-be63-5b91522e736a.png">
+
+
+
 
 ### Software Used:
 
