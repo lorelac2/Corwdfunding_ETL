@@ -57,7 +57,9 @@ The objectives for this process were divided into several subsections:
 
 # MongoDB Databases
 
-## Schema Diagram
+> initially we Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD. We used the information from the ERD to create a table schema for each CSV file.
+
+#### Schema Diagram
 *Exported from QuickDBD: https://www.quickdatabasediagrams.com/*
 
 <img width="559" alt="Screenshot 2023-03-08 190228" src="https://user-images.githubusercontent.com/116226080/223905655-377f716b-51c6-4d7c-acd8-73382eddf430.png">
