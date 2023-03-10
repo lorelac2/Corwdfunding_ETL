@@ -21,7 +21,7 @@ The objectives for this process were divided into several subsections:
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/116226080/224200936-4bf5a943-8756-4049-9d39-1c090752d800.png">
 
 ### Step 2: Create the Category and Subcategory DataFrames
-  - After creation of this data frame we exported as a CSV File (*category.csv*)
+  - After creation of these data frames we exportedcthem as CSV Files (*category.csv & subcategory.csv*)
 
 
 
