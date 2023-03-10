@@ -31,7 +31,6 @@
 
 <img width="427" alt="image" src="https://user-images.githubusercontent.com/116226080/224203139-7925e344-f4c1-4fdd-a289-18f925ec85c4.png">
 
-
 ### Step 3: Creted a campaign DF with specified columns
 >  - These included :cf_id, contact_id, company_name, blurb, goal, pleadged, and 8 other columns (*depicted below*)
 >  - Merged the campaign_df with the category_df on the "category" column and the subcategory_df on the "subcategory" column. 
