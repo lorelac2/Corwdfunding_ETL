@@ -48,8 +48,12 @@ The objectives for this process were divided into several subsections:
                 
 <img width="803" alt="image" src="https://user-images.githubusercontent.com/116226080/224205913-dc7f5102-9560-4398-ad92-b0ea9d80720d.png">
 
-
-
+### Step 6: Organized and cleaned out DF to show desired columns 
+  - Created a "first"name" and "last_name" column with the first and last names from the "name" column. 
+  - Drop the contact_name column
+  - Reordered the columns
+  - 
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/116226080/224206568-5e689bd4-76ef-4de8-b12d-fa154759cacf.png">
 
  
 ### Software Used:
