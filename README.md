@@ -34,7 +34,7 @@ The objectives for this process were divided into several subsections:
 <img width="809" alt="image" src="https://user-images.githubusercontent.com/116226080/224203218-8e4ddb1b-0016-4ad3-a70f-4d7f2252b8b2.png">
 
 ### Step 4: Exported Campaign DF to CSV
-  - utilizeed following code to create campaign csv. 
+  - utilized following code to create campaign csv. 
 
 <img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
 
