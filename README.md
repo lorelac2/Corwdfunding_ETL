@@ -55,7 +55,7 @@ The objectives for this process were divided into several subsections:
   
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/116226080/224206568-5e689bd4-76ef-4de8-b12d-fa154759cacf.png">
 
-#MongoDB Databases
+# MongoDB Databases
 
 ## Schema Diagram
 
