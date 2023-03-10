@@ -15,7 +15,14 @@ The objectives for this process were divided into several subsections:
 - Create the Crowdfunding Database
 
 # Steps
-## Step 1: 
+
+### Step 1. Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame 
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/116226080/224200936-4bf5a943-8756-4049-9d39-1c090752d800.png">
+
+### Step 2: Create the Category and Subcategory DataFrames
+  - After creation of this data frame we exported as a CSV File (*category.csv*)
+
 
 
 ### Software Used:
