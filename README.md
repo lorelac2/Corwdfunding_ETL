@@ -52,7 +52,7 @@ The objectives for this process were divided into several subsections:
   - Created a "first"name" and "last_name" column with the first and last names from the "name" column. 
   - Drop the contact_name column
   - Reordered the columns
-  - 
+  
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/116226080/224206568-5e689bd4-76ef-4de8-b12d-fa154759cacf.png">
 
  
