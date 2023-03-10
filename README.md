@@ -33,7 +33,7 @@ The objectives for this process were divided into several subsections:
 
 ### Functions used: 
 
-- <Print>
+<Print>
 - To_csv 
 - Iterrows
 - Copy
@@ -42,9 +42,9 @@ The objectives for this process were divided into several subsections:
 - Merge
 - Drop
 
-#Schema
+# Schema
 
-###Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+### Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
 <img width="559" alt="Screenshot 2023-03-08 190228" src="https://user-images.githubusercontent.com/116226080/223905655-377f716b-51c6-4d7c-acd8-73382eddf430.png">
 
