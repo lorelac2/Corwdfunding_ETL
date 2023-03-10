@@ -16,7 +16,7 @@ The objectives for this process were divided into several subsections:
 
 ## Steps
 
-### Step 1. Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame 
+### Step 1. Extract and transform the crowdfunding.xlsx Excel data
 
 <img width="780" alt="image" src="https://user-images.githubusercontent.com/116226080/224200936-4bf5a943-8756-4049-9d39-1c090752d800.png">
 
