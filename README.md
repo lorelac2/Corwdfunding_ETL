@@ -26,14 +26,15 @@ The objectives for this process were divided into several subsections:
 
 
 ### Software Used:
+'''
 - Python
 - SQL
 - Pandas
 - Numpy
-
+'''
 ### Functions used: 
-
-<Print>
+'''
+- Print
 - To_csv 
 - Iterrows
 - Copy
@@ -41,7 +42,7 @@ The objectives for this process were divided into several subsections:
 - Info
 - Merge
 - Drop
-
+'''
 # Schema
 
 ### Exported from QuickDBD: https://www.quickdatabasediagrams.com/
