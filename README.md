@@ -31,6 +31,7 @@ The objectives for this process were divided into several subsections:
 - SQL
 - Pandas
 - Numpy
+
 '''
 ### Functions used: 
 '''
@@ -42,6 +43,7 @@ The objectives for this process were divided into several subsections:
 - Info
 - Merge
 - Drop
+
 '''
 # Schema
 
