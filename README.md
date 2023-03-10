@@ -28,8 +28,18 @@ The objectives for this process were divided into several subsections:
 
 ### Step 3: Creted a campaign DF with specified columns
   - These included :cf_id, contact_id, company_name, blurb, goal, pleadged, and 8 other columns (*depicted below*)
-
+  - Merged the campaign_df with the category_df on the "category" column and the subcategory_df on the "subcategory" column. 
+  - utilized .drop() function to remove unwanted columns
+  
 <img width="809" alt="image" src="https://user-images.githubusercontent.com/116226080/224203218-8e4ddb1b-0016-4ad3-a70f-4d7f2252b8b2.png">
+
+### Step 4: Exported Campaign DF to CSV
+  - utilizeed following code to create campaign csv. 
+
+<img width="801" alt="image" src="https://user-images.githubusercontent.com/116226080/224204109-513aee46-9f4d-4078-8617-02d2c3bfbdca.png">
+
+
+
 
 
 ### Software Used:
@@ -45,14 +55,17 @@ The objectives for this process were divided into several subsections:
 > - Print
 > - To_csv 
 > - Iterrows
+> - strftime
 > - Copy
 > - Rename
 > - Info
 > - Merge
 > - Drop
+> - As_type
+> - info
 
 
-# Schema
+# Schema Diagram
 
 ### Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
